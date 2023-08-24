@@ -1,11 +1,11 @@
 <html>
 <head>
-    <title>Home</title>
+    <title>Dashboard</title>
     @livewireStyles
 </head>
 
 <body>
-@livewire('counter')
+@livewire('todo')
 @livewireScripts
 </body>
 </html>
